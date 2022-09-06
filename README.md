@@ -1,4 +1,4 @@
-<h1>VoeAirlines - FrontEnd :airplane:</h1><br>
+<h1>VoeAirlines - FrontEnd :airplane:</h1>
 
 #### “As coisas são mais belas quando vistas de cima.” - Santos dumont* <br> 
 
@@ -28,7 +28,7 @@ Diversas funcionalidades desde cadastro de aeronaves até geração de relatóti
 ```
 git clone https://github.com/PatriciaSuReis/cursogitjavascript.git
 ```
-### :shipit: *Futuro*
+## :shipit: *Futuro*
 *Implemetações futura*<br>
 *Colaboradores*<br>
 
